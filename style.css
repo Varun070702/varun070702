@@ -273,3 +273,7 @@ h4 {
 .white-text {
   color: white;
 }
+
+.no-bullet {
+  list-style: none;
+}
